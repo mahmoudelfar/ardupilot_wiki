@@ -71,6 +71,7 @@ First download the ardupilot on your Linux machine.
 ::
 
     git clone https://github.com/alexbuyval/ardupilot
+    cd ardupilot/
     git checkout RangeFinderSITL2
 
 ROS installation
